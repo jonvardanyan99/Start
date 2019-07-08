@@ -1,6 +1,5 @@
 const odd = document.querySelectorAll('.odd')
 const even = document.querySelectorAll('.even')
-const h1 = document.querySelector('h1')
 
 const foo = () => {
     for (let i = 0; i < odd.length; i++) {
