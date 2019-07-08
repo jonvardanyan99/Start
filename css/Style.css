@@ -16,11 +16,11 @@ h1 {
 }
 
 div:nth-of-type(1) {
-    font-weight: bold;
-    background-color: pink;
-    font-size: 35px;
-    padding: 10px 40px;
-    border-radius: 10px;
+    background-image: url(../images/autoRight.png);
+    background-size: cover;
+    background-position: center;
+    width: 98px;
+    height: 60px;
     cursor: pointer;
     user-select: none;
     position: absolute;
@@ -29,11 +29,11 @@ div:nth-of-type(1) {
 }
 
 div:nth-of-type(2) {
-    font-weight: bold;
-    background-color: pink;
-    font-size: 35px;
-    padding: 10px 40px;
-    border-radius: 10px;
+    background-image: url(../images/autoLeft.png);
+    background-size: cover;
+    background-position: center;
+    width: 98px;
+    height: 60px;
     cursor: pointer;
     user-select: none;
     position: absolute;
@@ -42,11 +42,11 @@ div:nth-of-type(2) {
 }
 
 div:nth-of-type(3) {
-    font-weight: bold;
-    background-color: pink;
-    font-size: 35px;
-    padding: 10px 40px;
-    border-radius: 10px;
+    background-image: url(../images/autoRight.png);
+    background-size: cover;
+    background-position: center;
+    width: 98px;
+    height: 60px;
     cursor: pointer;
     user-select: none;
     position: absolute;
@@ -55,11 +55,11 @@ div:nth-of-type(3) {
 }
 
 div:nth-of-type(4) {
-    font-weight: bold;
-    background-color: pink;
-    font-size: 35px;
-    padding: 10px 40px;
-    border-radius: 10px;
+    background-image: url(../images/autoLeft.png);
+    background-size: cover;
+    background-position: center;
+    width: 98px;
+    height: 60px;
     cursor: pointer;
     user-select: none;
     position: absolute;
@@ -68,11 +68,11 @@ div:nth-of-type(4) {
 }
 
 div:nth-of-type(5) {
-    font-weight: bold;
-    background-color: pink;
-    font-size: 35px;
-    padding: 10px 40px;
-    border-radius: 10px;
+    background-image: url(../images/autoRight.png);
+    background-size: cover;
+    background-position: center;
+    width: 98px;
+    height: 60px;
     cursor: pointer;
     user-select: none;
     position: absolute;
@@ -81,11 +81,11 @@ div:nth-of-type(5) {
 }
 
 div:nth-of-type(6) {
-    font-weight: bold;
-    background-color: pink;
-    font-size: 35px;
-    padding: 10px 40px;
-    border-radius: 10px;
+    background-image: url(../images/autoLeft.png);
+    background-size: cover;
+    background-position: center;
+    width: 98px;
+    height: 60px;
     cursor: pointer;
     user-select: none;
     position: absolute;

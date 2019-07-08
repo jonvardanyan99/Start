@@ -1,5 +1,6 @@
 const odd = document.querySelectorAll('.odd')
 const even = document.querySelectorAll('.even')
+const h1 = document.querySelector('h1')
 
 const foo = () => {
     for (let i = 0; i < odd.length; i++) {
@@ -11,5 +12,4 @@ const foo = () => {
         even[j].style.right = '90%'
         even[j].style.transition = '5s'
     }
-    
 }
